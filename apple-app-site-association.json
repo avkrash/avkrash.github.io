@@ -1,0 +1,43 @@
+{
+    "applinks" : {
+        "apps" : [],
+        "details" : [
+            {
+                "appID": "PGB36VEQ8D.ru.yandex.mobile.music",
+                "paths" : [
+                    "/search",
+                    "/album/*/track/*",
+                    "/album/*",
+                    "/track/*",
+                    "/artist/*/tracks",
+                    "/artist/*/albums",
+                    "/artist/*/similar",
+                    "/artist/*",
+                    "/genre",
+                    "/genre/*",
+                    "/mix",
+                    "/mix/*",
+                    "/tag/*",
+                    "/users/*/playlists/*",
+                    "/",
+                    "",
+                    "*/post/*",
+                    "/gift",
+                    "/settings",
+                    "/disk",
+                    "/import",
+                    "/users/*/*",
+                    "/referrer_alert",
+                    "/referrer_success",
+                    "/upsale",
+                    "/concert/*",
+                    "/home",
+                    "/new-releases",
+                    "/new-playlists",
+                    "/chart",
+                    "/genres"
+                ]
+            }
+        ]
+    }
+}
