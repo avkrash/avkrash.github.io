@@ -3,7 +3,7 @@
         "apps" : [],
         "details" : [
             {
-                "appID": "PGB36VEQ8D.ru.yandex.mobile.music",
+                "appID": "X9DCYK36Q2.ru.yandex.mobile.music.inhouse",
                 "paths" : [
                     "/search",
                     "/album/*/track/*",
@@ -30,12 +30,7 @@
                     "/referrer_alert",
                     "/referrer_success",
                     "/upsale",
-                    "/concert/*",
-                    "/home",
-                    "/new-releases",
-                    "/new-playlists",
-                    "/chart",
-                    "/genres"
+                    "/concert/*"
                 ]
             }
         ]
